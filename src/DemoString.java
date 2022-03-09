@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-public class DemoString {
-    public static void main(String[] args) {
-        
-=======
-import java.util.SortedMap;
-
 public class DemoString {
     public static void main(String[] args) {
         String Text1 = "Zadania z programowania.";
@@ -30,6 +23,5 @@ public class DemoString {
         System.out.println(Text1.substring(10,17));
         System.out.println(Text2.concat("\b z podpowiedziami."));
         System.out.println(Text1+"\b"+" z odpowiedziami.");
->>>>>>> 281740e (Initial commit)
     }
 }
